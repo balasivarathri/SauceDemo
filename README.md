@@ -1,33 +1,46 @@
 # Selenium WeDriver Demo On SauceWebSite
 
-## Web Element Locators
+## Web Element Locators Used
 
-*ID*
+* ID
 
-*Name*
+* Name
 
-*ClassName*
+* ClassName
 
-*Text*
+* Text
 
-*LinkText*
+* LinkText
 
-*Xpath*
+* Xpath
 
-*CSS Locator*
+* CSS Locator
 
-## Web Element Commands
+###### Browser Commands
 
-*By ID*
+* Get command
 
-*By Name*
+* Get Title Command
 
-*By ClassName*
+* Get current Url Command
 
-*By Text*
+* Close Command
 
-*By LinkText*
+* Quit Command
 
-*By Xpath*
 
-*By CSS Locator*
+## Web Element Commands Used
+
+* By ID*
+
+* By Name
+
+* By ClassName
+
+* By Text
+
+* By LinkText
+
+* By Xpath
+
+* By CSS Locator
