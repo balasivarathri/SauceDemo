@@ -1,1 +1,3 @@
-# SauceDemo
+# Selenium WeDriver for SauceDemo
+
+## Locators ##
