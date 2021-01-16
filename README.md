@@ -1,6 +1,6 @@
 # Selenium WeDriver Demo On SauceWebSite
 
-### WebElementLocators
+## Web Element Locators
 
 *ID*
 
@@ -10,8 +10,24 @@
 
 *Text*
 
-LinkText*
+*LinkText*
 
 *Xpath*
 
 *CSS Locator*
+
+## Web Element Commands
+
+*By ID*
+
+*By Name*
+
+*By ClassName*
+
+*By Text*
+
+*By LinkText*
+
+*By Xpath*
+
+*By CSS Locator*
