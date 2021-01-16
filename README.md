@@ -16,7 +16,7 @@
 
 * CSS Locator
 
-###### Browser Commands
+## Browser Commands Used
 
 * Get command
 
