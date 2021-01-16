@@ -1,3 +1,3 @@
-# Selenium WeDriver Demo On Sauce
+# Selenium WeDriver Demo On SauceWebSite
 
-## Locators ##
+## WebElementLocators ##
